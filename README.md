@@ -34,4 +34,4 @@
 - Mở thư mục dự án trong Android Studio, chờ Gradle Sync hoàn tất, sau đó nhấn **Run ▶** (Shift + F10) trên máy ảo hoặc thiết bị thật.
 
   **Xem hướng dẫn chi tiết và tài liệu làm báo cáo tại file**:
-  HUONG DAN SU DUNG.docx
+  B24DCCC183_DangHoangLong_BaoCao.docx
